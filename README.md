@@ -57,7 +57,7 @@ An AI-driven system that predicts relevant IPC sections, estimates punishments, 
 
 ---
 
-###🎬 **CineVault — Queue-Powered Movie Discovery Platform**
+### 🎬 **CineVault = Queue-Powered Movie Discovery Platform**
 
 A full-stack movie discovery app that syncs IMDb Top 250 + Japanese Anime Top 50, then enriches the library with posters + descriptions using background jobs (BullMQ). Built with a premium, animated dark UI and a production-style backend.
 
@@ -70,7 +70,7 @@ A full-stack movie discovery app that syncs IMDb Top 250 + Japanese Anime Top 50
 
 ---
 
-### 🧶 Riddhi’s Creation — Handcrafted Crochet Studio
+### 🧶 Riddhi’s Creation - Handcrafted Crochet Studio
 A calm, premium, CMS-driven web experience built as a digital lookbook for a handcrafted crochet brand, focusing on storytelling and immersive UI.
 
 - Tech: Next.js · TypeScript · Tailwind · GSAP · Sanity CMS  
@@ -80,7 +80,7 @@ A calm, premium, CMS-driven web experience built as a digital lookbook for a han
 
 ---
 
-### 🚀 LLM Playground — FastAPI × Gemini × React
+### 🚀 LLM Playground - FastAPI × Gemini × React
 An industry-style LLM playground showcasing clean backend architecture and thoughtful frontend UX for real-world LLM integration.
 
 - Tech: FastAPI · Gemini · React · Tailwind · Pydantic  
