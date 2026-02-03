@@ -108,7 +108,7 @@ A premium, immersive portfolio showcasing my projects, experience, and design ph
 
 - 💼 **LinkedIn:** https://linkedin.com/in/leander22  
 - 📧 **Email:** leanderfdes22@gmail.com  
-- 🌐 **Portfolio:** https://portfolio.vercel.app  
+- 🌐 **Portfolio:** https://portfolio-lovat-tau-94.vercel.app/
 
 ---
 
