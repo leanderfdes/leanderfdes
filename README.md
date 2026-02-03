@@ -57,6 +57,19 @@ An AI-driven system that predicts relevant IPC sections, estimates punishments, 
 
 ---
 
+###🎬 **CineVault — Queue-Powered Movie Discovery Platform**
+
+A full-stack movie discovery app that syncs IMDb Top 250 + Japanese Anime Top 50, then enriches the library with posters + descriptions using background jobs (BullMQ). Built with a premium, animated dark UI and a production-style backend.
+
+- Tech: React · Vite · Tailwind · Framer Motion · Node.js · Express · MongoDB Atlas · BullMQ · Redis · TMDB API · JWT Auth
+- Focus: Background workers, queue-based data pipelines, REST APIs, pagination/sorting, auth, production deployment
+
+🔗 Repository: https://github.com/leanderfdes/Cinevault
+
+🔗 Live Demo: https://cinevault-ten.vercel.app/
+
+---
+
 ### 🧶 Riddhi’s Creation — Handcrafted Crochet Studio
 A calm, premium, CMS-driven web experience built as a digital lookbook for a handcrafted crochet brand, focusing on storytelling and immersive UI.
 
