@@ -96,8 +96,8 @@ A premium, immersive portfolio showcasing my projects, experience, and design ph
 
 - Tech: HTML · CSS · JavaScript · GSAP · Vercel  
 
-🔗 Live Site: https://portfolio.vercel.app  
-🔗 Repository: https://github.com/leanderfdes/portfolio  
+🔗 Live Site: https://portfolio-lovat-tau-94.vercel.app/
+🔗 Repository: https://github.com/leanderfdes/leander-dev 
 
 
 ---
