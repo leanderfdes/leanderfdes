@@ -57,7 +57,7 @@ An AI-driven system that predicts relevant IPC sections, estimates punishments, 
 
 ---
 
-### 🎬 **CineVault = Queue-Powered Movie Discovery Platform**
+### 🎬 **CineVault - Queue-Powered Movie Discovery Platform**
 
 A full-stack movie discovery app that syncs IMDb Top 250 + Japanese Anime Top 50, then enriches the library with posters + descriptions using background jobs (BullMQ). Built with a premium, animated dark UI and a production-style backend.
 
