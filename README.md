@@ -87,6 +87,7 @@ An industry-style LLM playground showcasing clean backend architecture and thoug
 - Focus: API design, LLM integration, production deployment  
 
 🔗 Live Demo: https://llm-playground-fastapi-gemini-nffi-ou4twwlmk.vercel.app  
+
 🔗 Repository: https://github.com/leanderfdes/llm-playground  
 
 ---
@@ -97,6 +98,7 @@ A premium, immersive portfolio showcasing my projects, experience, and design ph
 - Tech: HTML · CSS · JavaScript · GSAP · Vercel  
 
 🔗 Live Site: https://portfolio-lovat-tau-94.vercel.app/
+
 🔗 Repository: https://github.com/leanderfdes/leander-dev 
 
 
