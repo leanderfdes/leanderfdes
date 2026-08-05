@@ -1,128 +1,179 @@
 <div align="center">
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Leander+Francis+Fernandes;AI+Application+Engineer+%26+Full-Stack+Developer;Building+LLM%2C+NLP+%26+Computer+Vision+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Systems;Production+REST+APIs+with+FastAPI;AI-Powered+Applications;Python+•+FastAPI+•+PostgreSQL+•+AWS" />
+
+<br>
+
+<a href="https://linkedin.com/in/leander22">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-lovat-tau-94.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:leanderfdes22@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+# About
 
-I’m an **AI Application Engineer & Full-Stack Developer** with a strong focus on building  
-**production-grade AI systems** and **clean, user-focused web experiences**.
+I'm currently working as a **Backend Engineer at TaxPlan Advisor**, where I build production-grade backend systems for financial services.
 
-I enjoy working at the intersection of **AI, engineering, and UX** — turning complex ideas into practical, real-world solutions.
+My work focuses on designing scalable REST APIs, backend architecture, PostgreSQL database design, AWS deployments, and integrating AI-powered workflows into real-world applications.
 
----
-
-## 🧠 What I Work On
-
-- 🤖 Large Language Model (LLM) applications  
-- 🧠 NLP & Computer Vision systems  
-- ⚙️ Backend APIs & system design  
-- 🎨 Frontend experiences with smooth micro-interactions  
-- 📊 Data analytics & visualization  
+Outside of work, I enjoy building products that combine clean engineering, intuitive user experience, and practical AI to solve real problems.
 
 ---
 
-## 🛠 Tech Stack (High-Level)
+# What I'm Working On
 
-**Languages & Core**
-- Python · JavaScript · SQL  
-
-**Frontend**
-- React · HTML · CSS · Tailwind  
-
-**Backend & APIs**
-- FastAPI · Flask · Node.js  
-
-**AI / ML**
-- LLMs · NLP · Computer Vision · RAG  
-
-**Tools & Platforms**
-- Git · Docker · Vercel · Sanity CMS  
+- ⚡ Designing scalable REST APIs with FastAPI
+- 🏗 Building backend systems for production workloads
+- 🗄 PostgreSQL database architecture & optimization
+- ☁ Deploying and maintaining cloud applications on AWS
+- 🤖 AI-powered applications using LLMs and semantic search
+- 🔗 Third-party API integrations
+- 📈 Improving system performance and scalability
 
 ---
 
-## 🚀 Featured Work
+# Featured Projects
 
-### ⚖️ AI-Powered Legal Decision Support System
-An AI-driven system that predicts relevant IPC sections, estimates punishments, and retrieves similar past cases using NLP and semantic search.
+## ⚖️ AI Legal Decision Support System
 
-- Tech: Python · Flask · React · SentenceTransformer · ChromaDB · Gemini API  
-- Focus: NLP, legal text understanding, semantic search, decision support  
+AI-powered legal assistant that performs semantic legal search, predicts relevant IPC sections, and generates intelligent summaries using LLMs.
 
-🔗 Repository: https://github.com/leanderfdes/ai-legal-decision-support  
+**Stack**
 
----
+Python • FastAPI • React • ChromaDB • Sentence Transformers • Gemini API
 
-### 🎬 **CineVault - Queue-Powered Movie Discovery Platform**
+🔗 Repository
 
-A full-stack movie discovery app that syncs IMDb Top 250 + Japanese Anime Top 50, then enriches the library with posters + descriptions using background jobs (BullMQ). Built with a premium, animated dark UI and a production-style backend.
-
-- Tech: React · Vite · Tailwind · Framer Motion · Node.js · Express · MongoDB Atlas · BullMQ · Redis · TMDB API · JWT Auth
-- Focus: Background workers, queue-based data pipelines, REST APIs, pagination/sorting, auth, production deployment
-
-🔗 Repository: https://github.com/leanderfdes/Cinevault
-
-🔗 Live Demo: https://cinevault-ten.vercel.app/
+https://github.com/leanderfdes/ai-legal-decision-support
 
 ---
 
-### 🧶 Riddhi’s Creation - Handcrafted Crochet Studio
-A calm, premium, CMS-driven web experience built as a digital lookbook for a handcrafted crochet brand, focusing on storytelling and immersive UI.
+## 🎬 CineVault
 
-- Tech: Next.js · TypeScript · Tailwind · GSAP · Sanity CMS  
-- Focus: CMS architecture, animations, UX storytelling  
+Production-style movie discovery platform with queue-based background workers, authentication, scalable APIs, and premium frontend.
 
-🔗 Repository: https://github.com/leanderfdes/riddhis-creation  
+**Stack**
 
----
+React • Node.js • Express • MongoDB • Redis • BullMQ
 
-### 🚀 LLM Playground - FastAPI × Gemini × React
-An industry-style LLM playground showcasing clean backend architecture and thoughtful frontend UX for real-world LLM integration.
+🔗 Repository
 
-- Tech: FastAPI · Gemini · React · Tailwind · Pydantic  
-- Focus: API design, LLM integration, production deployment  
+https://github.com/leanderfdes/Cinevault
 
-🔗 Live Demo: https://llm-playground-fastapi-gemini-nffi-ou4twwlmk.vercel.app  
+🌐 Live
 
-🔗 Repository: https://github.com/leanderfdes/llm-playground  
+https://cinevault-ten.vercel.app
 
 ---
 
-### 🌐 Personal Portfolio
-A premium, immersive portfolio showcasing my projects, experience, and design philosophy with a focus on performance and recruiter UX.
+## 🚀 LLM Playground
 
-- Tech: HTML · CSS · JavaScript · GSAP · Vercel  
+Modern playground demonstrating FastAPI architecture with Gemini integration.
 
-🔗 Live Site: https://portfolio-lovat-tau-94.vercel.app/
+**Stack**
 
-🔗 Repository: https://github.com/leanderfdes/leander-dev 
+FastAPI • React • Gemini • Tailwind
 
+🔗 Repository
 
----
+https://github.com/leanderfdes/llm-playground
 
-## 📫 Let’s Connect
+🌐 Live
 
-- 💼 **LinkedIn:** https://linkedin.com/in/leander22  
-- 📧 **Email:** leanderfdes22@gmail.com  
-- 🌐 **Portfolio:** https://portfolio-lovat-tau-94.vercel.app/
+https://llm-playground-fastapi-gemini-nffi-ou4twwlmk.vercel.app
 
 ---
 
-## 🌱 Currently Learning
+## 🧶 Riddhi's Creation
 
-- Advanced LLM orchestration & evaluation  
-- Scalable AI system design  
-- Performance optimization for AI-powered web apps  
+Premium CMS-driven website focused on storytelling, performance, and immersive UI.
+
+**Stack**
+
+Next.js • TypeScript • Tailwind • GSAP • Sanity CMS
+
+🔗 Repository
+
+https://github.com/leanderfdes/riddhis-creation
 
 ---
 
-<!-- Subtle footer -->
+## 🌐 Portfolio
+
+Personal portfolio showcasing projects, experience, and engineering journey.
+
+🌐 https://portfolio-lovat-tau-94.vercel.app
+
+🔗 Repository
+
+https://github.com/leanderfdes/leander-dev
+
+---
+
+# Tech Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css"/>
+</p>
+
+### AI
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- NLP
+- Sentence Transformers
+- Gemini API
+- Computer Vision
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=leanderfdes&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderfdes&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
 <div align="center">
 
-⭐ If you like my work, feel free to explore my repositories or connect with me.
+### Thanks for visiting!
+
+If any of my projects interest you, feel free to connect or explore the repositories.
 
 </div>
